@@ -1,0 +1,5 @@
+data/
+*.parquet
+*.db
+.streamlit/secrets.toml
+.env
